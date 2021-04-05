@@ -13,7 +13,7 @@ Vorinstalliere Apps mit Tizen CLI auf einem SmartTV deinstallieren
 
 ## AppID rausfinden
  - Installed web app list (rechte Mausklick auf dem Gerät )
- - App ID kopieren (App ID - Tizen)
+ - App ID kopieren (App ID - Tizen, z.Bsp.: AGJFlEOkBo.emanual)
 
 ## App deinstallieren
  - CMD öffnen und zum Ordner gehen: **C:\tizen-cli\tools\ide\bin**
