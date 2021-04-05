@@ -9,7 +9,7 @@
 
 ## TV Extensions installieren
  - Package Manager öffnen: **C:\tizen-studio\package-manager\package-manager.exe**
- - Extension installieren: **Extension CDK > Extras > TV Extensions x.x > Web app development**
+ - Extension installieren: **Extension SDK > Extras > TV Extensions x.x > Web app development**
 
 ## TV Verbinden
  - Device Manager öffnen: **C:\tizen-studio\tools\device-manager\bin\device-manager.exe**
