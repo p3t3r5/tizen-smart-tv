@@ -1,5 +1,8 @@
 Vorinstalliere Apps mit Tizen CLI auf einem SmartTV deinstallieren
 
+## TV in Development Mode wechseln
+ - https://developer.samsung.com/smarttv/develop/getting-started/using-sdk/tv-device.html (1. Schritt. Benutze 123-Taste)
+
 ## Tizen CLI installieren
  - Tizen Studio x.x with CLI herunterladen und installieren: https://developer.tizen.org/ko/development/tizen-studio/download
 
