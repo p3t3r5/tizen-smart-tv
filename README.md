@@ -5,10 +5,10 @@
  - Benutze 123-Taste auf einer universale Fernbedienung
 
 ## Tizen CLI installieren
- - Tizen Studio x.x with CLI herunterladen und installieren: https://developer.tizen.org/ko/development/tizen-studio/download
+ - **Tizen Studio x.x with CLI** herunterladen und installieren: https://developer.tizen.org/ko/development/tizen-studio/download
 
 ## TV Extensions installieren
- - Package Manager öffnen: **C:\tizen-cli\package-manage\package-manager.exe**
+ - Package Manager öffnen: **C:\tizen-cli\package-manager\package-manager.exe**
  - Extension installieren: **Extension CDK > Extras > TV Extensions x.x > Web app development**
 
 ## TV Verbinden
