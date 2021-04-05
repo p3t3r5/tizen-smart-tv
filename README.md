@@ -16,7 +16,7 @@
  - Connect the TV to the SDK: https://developer.samsung.com/smarttv/develop/getting-started/using-sdk/tv-device.html
 
 ## Installierte AppID rausfinden
- - Rechte Mausklick auf dem Gerät: **Menü > Installed web app list**
+ - Rechte Mausklick auf dem Gerät: **Installed web app list**
  - App ID aus dem Fenster kopieren (App ID - Tizen, z.Bsp.: **AGJFlEOkBo.emanual**)
 
 ## App deinstallieren
