@@ -1,7 +1,8 @@
 Vorinstalliere Apps mit Tizen CLI auf einem SmartTV deinstallieren
 
-## TV in Development Mode wechseln
- - https://developer.samsung.com/smarttv/develop/getting-started/using-sdk/tv-device.html (1. Schritt. Benutze 123-Taste)
+## TV in Development Mode umshalten
+ - Enable Developer Mode on the TV: https://developer.samsung.com/smarttv/develop/getting-started/using-sdk/tv-device.html
+ - Benutze 123-Taste auf einer universale Fernbedienung
 
 ## Tizen CLI installieren
  - Tizen Studio x.x with CLI herunterladen und installieren: https://developer.tizen.org/ko/development/tizen-studio/download
@@ -12,7 +13,7 @@ Vorinstalliere Apps mit Tizen CLI auf einem SmartTV deinstallieren
 
 ## TV Verbinden
  - Device Manager öffnen: **C:\tizen-cli\tools\device-manager\bin\device-manager.exe**
- - Gerät über Remote Device Manager hinzufügen (kann man auch scanen lassen)
+ - Connect the TV to the SDK: https://developer.samsung.com/smarttv/develop/getting-started/using-sdk/tv-device.html
 
 ## AppID rausfinden
  - Installed web app list (rechte Mausklick auf dem Gerät )
