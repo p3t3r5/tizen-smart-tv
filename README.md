@@ -18,5 +18,5 @@ Vorinstalliere Apps mit Tizen CLI auf einem SmartTV deinstallieren
 
 ## App deinstallieren
  - CMD öffnen und zum Ordner gehen: C:\tizen-cli\tools\ide\bin
- - Befehl mit kopiertem AppID ausfüren: tizen.bat uninstall -p <AppID>
+ - Befehl mit kopiertem AppID ausfüren: tizen.bat uninstall -p [AppID]
 
