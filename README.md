@@ -8,11 +8,11 @@
  - **Tizen Studio x.x with CLI** herunterladen und installieren: https://developer.tizen.org/ko/development/tizen-studio/download
 
 ## TV Extensions installieren
- - Package Manager öffnen: **C:\tizen-cli\package-manager\package-manager.exe**
+ - Package Manager öffnen: **C:\tizen-studio\package-manager\package-manager.exe**
  - Extension installieren: **Extension CDK > Extras > TV Extensions x.x > Web app development**
 
 ## TV Verbinden
- - Device Manager öffnen: **C:\tizen-cli\tools\device-manager\bin\device-manager.exe**
+ - Device Manager öffnen: **C:\tizen-studio\tools\device-manager\bin\device-manager.exe**
  - Connect the TV to the SDK: https://developer.samsung.com/smarttv/develop/getting-started/using-sdk/tv-device.html
 
 ## Installierte AppID rausfinden
@@ -20,6 +20,6 @@
  - App ID aus dem Fenster kopieren (App ID - Tizen, z.Bsp.: **AGJFlEOkBo.emanual**)
 
 ## App deinstallieren
- - CMD öffnen und zum Ordner gehen: **C:\tizen-cli\tools\ide\bin**
+ - CMD öffnen und zum Ordner gehen: **C:\tizen-studio\tools\ide\bin**
  - Befehl mit kopiertem AppID ausfüren: **tizen uninstall -p [AppID]**
 
