@@ -5,14 +5,14 @@ Vorinstalliere Apps mit Tizen CLI auf einem SmartTV deinstallieren
 
 ## TV Extensions installieren
  - Package Manager öffnen: **C:\tizen-cli\package-manage\package-manager.exe**
- - Extension installieren (Extension CDK > Extras > TV Extensions > TV Extensions > Web app development)
+ - Extension installieren: **Extension CDK > Extras > TV Extensions x.x > Web app development**
 
 ## TV Verbinden
  - Device Manager öffnen: **C:\tizen-cli\tools\device-manager\bin\device-manager.exe**
- - TV über Remote Device Manager hinzufügen (kann man auch scanen lassen)
+ - Gerät über Remote Device Manager hinzufügen (kann man auch scanen lassen)
 
 ## AppID rausfinden
- - Installed web app list
+ - Installed web app list (rechte Mausklick auf dem Gerät )
  - App ID kopieren (App ID - Tizen)
 
 ## App deinstallieren
