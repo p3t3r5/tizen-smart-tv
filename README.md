@@ -2,7 +2,7 @@
 
 ## TV in Development Mode umschalten
  - Enable Developer Mode on the TV: https://developer.samsung.com/smarttv/develop/getting-started/using-sdk/tv-device.html
- - Benutze 123-Taste auf einer universale Fernbedienung
+ - Benutze 123-Taste auf einer Universal Fernbedienung
 
 ## Tizen CLI installieren
  - **Tizen Studio x.x with CLI** herunterladen und installieren: https://developer.tizen.org/ko/development/tizen-studio/download
@@ -15,11 +15,11 @@
  - Device Manager öffnen: **C:\tizen-studio\tools\device-manager\bin\device-manager.exe**
  - Connect the TV to the SDK: https://developer.samsung.com/smarttv/develop/getting-started/using-sdk/tv-device.html
 
-## Installierte AppID rausfinden
- - Rechte Mausklick auf dem Gerät: **Installed web app list**
- - App ID aus dem Fenster kopieren (App ID - Tizen, z.Bsp.: **AGJFlEOkBo.emanual**)
+## Installierte App-ID rausfinden
+ - Rechte Mausklick auf dem Device: **Installed web app list**
+ - App-ID finden und kopieren (z.Bsp.: **AGJFlEOkBo.emanual**)
 
-## App deinstallieren
- - CMD öffnen und zum Ordner gehen: **C:\tizen-studio\tools\ide\bin**
- - Befehl mit kopiertem AppID ausfüren: **tizen uninstall -p [AppID]**
+## SmartTV App deinstallieren
+ - CMD (Konsole) öffnen und zum Ordner gehen: **C:\tizen-studio\tools\ide\bin**
+ - Befehl mit entsprechender App-ID ausfüren: **tizen uninstall -p APP-ID**
 
